@@ -1,0 +1,24 @@
+﻿@model Alimatic.DataDin.Controllers.EF
+@{  Layout = "_Layout"; }
+
+<div>
+    <h2>Estados Financieros</h2>
+
+    <form method="get" action="EF">
+        Reeup: <input asp-for="Reeup"/><br/>
+        Model: <input asp-for="Model" /><br/>
+        Año: <input asp-for="Year" /><br/>
+        Mes: <input asp-for="Month" /><br/>
+        <button type="submit">Modify</button>
+    </form>
+
+    <br />
+
+    <table>
+        <tr> <th>Fila</th> <th>Descripcion</th> <th>C1</th> <th>C2</th> <th>C3</th> </tr>
+        @foreach (var ef in Model.EFModels)
+        {
+            <tr> <td>@ef.Id</td> <td>@ef.Descripcion</td> <td>@ef.C1</td> <td>@ef.C2</td> <td>@ef.C3</td> </tr>
+        }
+    </table>
+</div>

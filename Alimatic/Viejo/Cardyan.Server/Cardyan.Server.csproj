@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+
+    <LangVersion>7.3</LangVersion>
+    <Authors>Yandy Zaldivar</Authors>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionSufix>alpha-1</VersionSufix>
+    <Copyright>@ Yandy Zaldivar</Copyright>
+    <AssemblyName>Cardyan.Server</AssemblyName>
+    <AssemblyTitle>Cardyan.Server</AssemblyTitle>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RuntimeFrameworkVersion>2.1.1</RuntimeFrameworkVersion>
+    <!--<TargetFramework>net461</TargetFramework>-->
+    <Description>tttttttttttttttttttttttttttttttttt</Description>
+
+    <OutputType>Exe</OutputType>
+    <Determinstic>true</Determinstic>
+    <UserSecretsId>xyz123</UserSecretsId>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DefineConstants>$(DefineConstants);POMELO</DefineConstants>
+    <RuntimeIdentifiers>win-x64;osx-x64;linux-x64;portable</RuntimeIdentifiers>
+
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/YandyZaldivar/Cardyan</RepositoryUrl>
+
+    <ServerGarbageCollection>true</ServerGarbageCollection>
+    <RetainVMGarbageCollection>true</RetainVMGarbageCollection>
+    <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <RootNamespace></RootNamespace>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../Cyxor/Cyxor.Master/Cyxor.Master/Cyxor.Master.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.1.1" />
+    <!--<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" />-->
+    <PackageReference Include="System.Composition" Version="1.2.0" />
+  </ItemGroup>
+
+</Project>

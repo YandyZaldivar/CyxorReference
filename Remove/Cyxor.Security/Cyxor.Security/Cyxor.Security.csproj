@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+    <LangVersion>7.3</LangVersion>
+    <Authors>Yandy Zaldivar</Authors>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionSufix>alpha-3</VersionSufix>
+    <Copyright>@ Yandy Zaldivar</Copyright>
+    <AssemblyName>Cyxor.Security</AssemblyName>
+    <AssemblyTitle>Cyxor.Security</AssemblyTitle>
+    <TargetFrameworks>net20;net35;net40;net45;netstandard1.3;netstandard2.0</TargetFrameworks>
+    <!--<TargetFrameworks>net20;net35;net40;net45;netstandard1.0;netstandard1.3</TargetFrameworks>-->
+    <Description>Cyxor Security Class Library</Description>
+
+    <Determinstic>true</Determinstic>
+    <UserSecretsId>xyz123</UserSecretsId>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/YandyZaldivar/Cyxor</RepositoryUrl>
+
+    <PackageId>Cyxor.Security</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/YandyZaldivar</PackageProjectUrl>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/YandyZaldivar/Cyxor/img/cyxor.png</PackageIconUrl>
+    <PackageTags>Cyxor;.NET Core;Security;SRP;SRP6a;Cryptography;Authentication;Encryption</PackageTags>
+    <PackageReleaseNotes></PackageReleaseNotes>
+
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+
+    <!--<NetStandardImplicitPackageVersion Condition=" '$(TargetFramework)' == 'netstandard1.0' ">1.6.1</NetStandardImplicitPackageVersion>-->
+    <NetStandardImplicitPackageVersion Condition=" '$(TargetFramework)' == 'netstandard1.3' ">1.6.1</NetStandardImplicitPackageVersion>
+    <PackageTargetFallback Condition=" '$(TargetFramework)' == 'netstandard1.0' ">$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
+
+  </PropertyGroup>
+
+  <!--
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard1.0' ">
+    <PackageReference Include="System.Security.SecureString" Version="4.0.0-beta-23409" />
+    <PackageReference Include="System.Security.Cryptography.Algorithms" Version="4.3.0" />
+  </ItemGroup>
+  -->
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard1.3' ">
+    <PackageReference Include="System.Security.SecureString" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>

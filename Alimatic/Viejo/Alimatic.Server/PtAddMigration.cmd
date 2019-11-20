@@ -1,0 +1,1 @@
+dotnet ef migrations add Initial -c PtDbContext -o "Alimatic/Pt/Data/Migrations"

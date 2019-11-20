@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>7.3</LangVersion>
+    <RootNamespace>.</RootNamespace>
+    <Authors>Yandy Zaldivar</Authors>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionSufix>alpha-3</VersionSufix>
+    <Copyright>@ Yandy Zaldivar</Copyright>
+    <AssemblyName>Cyxor.Master</AssemblyName>
+    <AssemblyTitle>Cyxor.Master</AssemblyTitle>
+    <TargetFrameworks>net451;net461;netstandard1.3;netstandard2.0</TargetFrameworks>
+    <Description>Server side framework responsible for communication, security and account database management</Description>
+
+    <Determinstic>true</Determinstic>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DefineConstants>MASTER</DefineConstants>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/YandyZaldivar/Cyxor</RepositoryUrl>
+
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+
+    <NetStandardImplicitPackageVersion Condition=" '$(TargetFramework)' == 'netstandard1.3' ">1.6.1</NetStandardImplicitPackageVersion>
+    
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/YandyZaldivar/Cyxor/img/cyxor.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/YandyZaldivar</PackageProjectUrl>
+    <PackageTags>Cyxor;.NET Core;Server;Framework;Asynchronous;Networking;Communication;Security;Database</PackageTags>
+    <PackageReleaseNotes></PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup Condition="'$(CyxorFlag)' == ''">
+    <PackageReference Include="Cyxor.Models" Version="*" />
+  </ItemGroup>
+  
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard1.3' OR '$(TargetFramework)' == 'net451' ">
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.6" PrivateAssets="All" />
+  </ItemGroup>
+
+  <!--<ItemGroup Condition=" '$(TargetFramework)' == 'netstandard1.3' OR '$(TargetFramework)' == 'net451' ">
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="1.1.5" />
+  </ItemGroup>-->
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard2.0' OR '$(TargetFramework)' == 'net461' ">
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.1.2" />
+  </ItemGroup>
+
+  <!--<ItemGroup Condition=" '$(TargetFramework)' == 'netstandard2.0' OR '$(TargetFramework)' == 'net461' ">
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.1.1" />
+  </ItemGroup>-->
+
+</Project>

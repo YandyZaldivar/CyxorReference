@@ -1,0 +1,121 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+
+    <LangVersion>7.1</LangVersion>
+    <Authors>Yandy Zaldivar</Authors>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionSufix>alpha-1</VersionSufix>
+    <Copyright>@ Yandy Zaldivar</Copyright>
+    <AssemblyName>Alimatic.Server</AssemblyName>
+    <AssemblyTitle>Alimatic.Server</AssemblyTitle>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RuntimeFrameworkVersion>2.1.2</RuntimeFrameworkVersion>
+    <!--<TargetFramework>net461</TargetFramework>-->
+    <Description>tttttttttttttttttttttttttttttttttt</Description>
+
+    <OutputType>Exe</OutputType>
+    <Determinstic>true</Determinstic>
+    <UserSecretsId>xyz123</UserSecretsId>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DefineConstants>$(DefineConstants);POMELO</DefineConstants>
+    <RuntimeIdentifiers>win-x64;osx-x64;linux-x64;portable</RuntimeIdentifiers>
+    <!--<RuntimeIdentifiers>win-x64;linux-x64;osx-x64</RuntimeIdentifiers>-->
+
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/YandyZaldivar/Cyxor</RepositoryUrl>
+
+    <ServerGarbageCollection>true</ServerGarbageCollection>
+    <RetainVMGarbageCollection>true</RetainVMGarbageCollection>
+    <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <RootNamespace></RootNamespace>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="%2a%2a\**" />
+    <Compile Remove="Properties\PublishProfiles\**" />
+    <Content Remove="%2a%2a\**" />
+    <EmbeddedResource Remove="%2a%2a\**" />
+    <EmbeddedResource Remove="Properties\PublishProfiles\**" />
+    <None Remove="%2a%2a\**" />
+    <None Remove="Properties\PublishProfiles\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--<ProjectReference Include="..\EFCore.MySql\EFCore.MySql.csproj" />-->
+    <ProjectReference Include="..\..\Cyxor.Razor\Cyxor.Razor\Cyxor.Razor.csproj" />
+    <ProjectReference Include="..\..\Cyxor.Models\Cyxor.Models\Cyxor.Models.csproj" />
+    <ProjectReference Include="..\..\Cyxor.Master\Cyxor.Master\Cyxor.Master.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <!--<PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.1" />-->
+    <PackageReference Include="ExcelDataReader" Version="3.4.0" />
+    <!--<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.3" />-->
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.4.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.1.1" />
+  </ItemGroup>
+
+  <!--<ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.2" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
+  </ItemGroup>-->
+  
+  
+  
+
+  <!--<ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="1.1.2" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="1.1.2" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.3" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="1.0.2" />
+  </ItemGroup>-->
+  
+  
+
+  <!--<ItemGroup Condition=" '$(TargetFramework)' == 'netcoreapp1.1' OR '$(TargetFramework)' == 'net461' ">
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="1.1.2" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.3" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netcoreapp1.1' OR '$(TargetFramework)' == 'net461'">
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="1.0.2" />
+  </ItemGroup>-->
+  
+  <!--<ItemGroup Condition=" '$(TargetFramework)' == 'netcoreapp2.0' ">
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netcoreapp2.0' ">
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+  </ItemGroup>-->
+
+  <!--<ItemGroup>
+    <PackageReference Include="CoreCompat.System.Drawing" Version="1.0.0-beta006" />
+  </ItemGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' != 'netcoreapp2.0'">
+    <Reference Include="GemBox.Spreadsheet">
+      <HintPath>C:\Program Files (x86)\GemBox Software\GemBox.Spreadsheet 4.1\Bin\NET3X4X\GemBox.Spreadsheet.dll</HintPath>
+    </Reference>
+  </ItemGroup>-->
+
+</Project>

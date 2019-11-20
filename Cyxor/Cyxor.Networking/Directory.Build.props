@@ -1,0 +1,10 @@
+<Project>
+
+  <Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)../'))" />
+
+  <ItemGroup Condition="'$(CyxorFlag)' == 'true'">
+    <ProjectReference Include="../../Cyxor.Security/Cyxor.Security/Cyxor.Security.csproj" />
+    <ProjectReference Include="../../Cyxor.Serialization/Cyxor.Serialization/Cyxor.Serialization.csproj" />
+  </ItemGroup>
+
+</Project>

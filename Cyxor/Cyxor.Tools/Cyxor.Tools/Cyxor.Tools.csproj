@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <!--<RuntimeFrameworkVersion>2.1.5</RuntimeFrameworkVersion>-->
+    <RuntimeIdentifiers>portable</RuntimeIdentifiers>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Alimatic\Datadin\Datadin.Server\Datadin.Server.csproj" />
+    <ProjectReference Include="..\..\..\Cardyan\Modules\Cardyan.Accounting\Cardyan.Accounting.csproj" />
+    <ProjectReference Include="..\..\..\Cardyan\Modules\Cardyan.Inventory\Cardyan.Inventory.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--Used by ef core tools-->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.3" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+<Project>
+  
+  <PropertyGroup>
+    <CyxorFlag>true</CyxorFlag>
+    <CyxorPath>$(MSBuildThisFileDirectory)../</CyxorPath>
+    <CyxorOutputPath>$(CyxorPath)_outBeforeFrame/</CyxorOutputPath>
+    <BaseOutputPath>$(CyxorOutputPath)_bin/$(MSBuildProjectName)</BaseOutputPath>
+    <BaseIntermediateOutputPath>$(CyxorOutputPath)_obj/$(MSBuildProjectName)</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  
+</Project>

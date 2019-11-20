@@ -1,0 +1,9 @@
+<Project>
+  
+  <Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)../'))" />
+
+  <Target Name="CyxorPackages" AfterTargets="Pack" Condition="'$(Configuration)' == 'Release' AND Exists('$(OutputPath)$(PackageId).$(PackageVersion).nupkg')">
+    <Move SourceFiles="$(OutputPath)$(PackageId).$(PackageVersion).nupkg" DestinationFolder="$(CyxorOutputPath)Packages/" />
+  </Target>
+  
+</Project>

@@ -1,0 +1,659 @@
+Pt1,Int32,String,Text,StringEnum,Int32,StringEnum,String,String,Int32,String,Int32,Int32,Int32,String,Int32,Int32,Char
+,No,Empresa,UEB/OC,Provincia,UEB Alimatic,Sist. Cont,Migración,Nómina,C,Real,Plan,ADSL,PAP,Aumento,Maq Env,PLC,S
+,3,Bebidas Pinar del Río,Vinos “El Valle”,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,66,Lácteos Camaguey,Combinado Lácteo Camagüey,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Fca Quesos La Vaquita,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Fca. de leche en polvo,Camaguey,0,Sicema SQL,,Negación,6,128,,1,,-128,,,G
+,66,Lácteos Camaguey,Pasteurizadora Nuevitas,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Fca. Queso Taino,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Fca. Queso Sibanicú,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Combinado Florida,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Combinado Guarina,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Centro de Acopio y Distribución Caribe,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Centro de Acopio y Enfriamiento de Jimaguayú,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Centro de Acopio y Enfriamiento Vertientes,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Centro de Acopio y Enfriamiento Esmeralda,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Fábrica de Helados Coppelia,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Taller Automotor Central,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Taller de Mantenimiento Fabril,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,67,Bebidas Camaguey,Oficina Central,Camaguey,0,Sicema SQL,,SQL,5,512,,1,,-512,,,G
+,66,Lácteos Camaguey,Centro de  Acopio y Distribución Cuatro Caminos,Camaguey,0,Sicema SQL,,Negación,6,,,,1,0,,,G
+,66,Lácteos Camaguey,Oficina Central,Camaguey,0,Sicema SQL,,Negación,6,1024,,1,,-1024,,,G
+,65,Cárnica Camaguey,Empacadora Tomás Rojas Rodríguez,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,65,Cárnica Camaguey,Matadero Mártires de Esmeralda,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,62,Bebidas Ciego de Ávila,Vinagre “La Espirituana”,Sancti Spíritus,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,63,EPIVILA,Oficina Central,Ciego de Ávila,0,Sicema SQL,01/04/2017,SQL,5,128,,1,,-128,,,G
+,63,EPIVILA,Turiguanó,Ciego de Ávila,0,Sicema SQL,01/04/2017,SQL,5,,,,,0,,,G
+,63,EPIVILA,Júcaro,Ciego de Ávila,0,Sicema SQL,01/04/2017,SQL,5,,64,,,64,,,G
+,63,EPIVILA,Punta Alegre,Ciego de Ávila,0,Sicema SQL,01/04/2017,SQL,5,,64,,,64,,,G
+,64,PESCAVILA,Oficina Central,Ciego de Ávila,0,Siscomip,01/07/2017,SQL,5,128,,1,,-128,,,G
+,64,PESCAVILA,Provevila,Ciego de Ávila,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,64,PESCAVILA,Las Margaritas,Ciego de Ávila,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,64,PESCAVILA,Florencia,Ciego de Ávila,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,64,PESCAVILA,Alevinaje Morón,Ciego de Ávila,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,64,PESCAVILA,Procesadora Industrial Morón,Ciego de Ávila,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,64,PESCAVILA,Bolivia,Ciego de Ávila,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,65,Cárnica Camaguey,Oficina Central,Camaguey,0,Sicema SQL,,SQL,5,128,512,1,,384,,,G
+,65,Cárnica Camaguey,Empacadora Raúl Cepero Bonilla,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,65,Cárnica Camaguey,Combinado Cárnico César Escalante,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,65,Cárnica Camaguey,Unidad de Aseguramiento y Transporte,Camaguey,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,65,Cárnica Camaguey,Matadero Guáimaro,Camaguey,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,67,Bebidas Camaguey,Fábrica de Ron y Vinos Puerto Príncipe,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,62,Bebidas Ciego de Ávila,Bebidas y Hielos,Sancti Spíritus,0,Sicema SQL,,SQL,5,64,,1,4,-64,,,G
+,67,Bebidas Camaguey,Fábrica de Refrescos Máximo Martínez Cabrera,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,67,Bebidas Camaguey,Fábrica de Refrescos “23 de agosto”,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,70,EPISUR,Aseguramiento,Camaguey,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,70,EPISUR,Operaciones Pesqueras,Camaguey,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,70,EPISUR,"Industria, Calidad y Comercialización",Camaguey,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,71,PESCACAM,Oficina Central,Camaguey,0,Sicema SQL,01/04/2017,SQL,5,320,512,2,,192,,,G
+,71,PESCACAM,Acuicam,Camaguey,0,Sicema SQL,01/04/2017,SQL,5,,,,,0,,,G
+,71,PESCACAM,Acuinicu,Camaguey,0,Sicema SQL,01/04/2017,SQL,5,,,,1,0,,,G
+,71,PESCACAM,Acuiflor,Camaguey,0,Sicema SQL,01/04/2017,SQL,5,,,,1,0,,,G
+,70,EPISUR,Nuevitas,Camaguey,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,71,PESCACAM,Alevicuba,Camaguey,0,Sicema SQL,01/04/2017,SQL,5,,,,,0,,,G
+,71,PESCACAM,Servicam,Camaguey,0,Sicema SQL,01/04/2017,SQL,5,,,,,0,,,G
+,72,Cárnica Las Tunas,Oficina Central,Las Tunas,0,Sicema SQL,,SQL,5,128,512,1,,384,,,G
+,72,Cárnica Las Tunas,Álvaro Barba M,Las Tunas,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,72,Cárnica Las Tunas,Victuro Acosta L,Las Tunas,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,72,Cárnica Las Tunas,Gerónimo Astier,Las Tunas,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,72,Cárnica Las Tunas,Pelayo Cusido T,Las Tunas,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,72,Cárnica Las Tunas,CEDP 26 de Julio,Las Tunas,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,71,PESCACAM,Estrella Roja,Camaguey,0,Sicema SQL,01/04/2017,SQL,5,,,,1,0,,,G
+,70,EPISUR,Playa Florida,Camaguey,0,Siscomip,01/07/2017,SQL,5,,,,1,0,,,G
+,70,EPISUR,Oficina Central,Camaguey,0,Siscomip,01/07/2017,SQL,5,192,512,2,,320,,,G
+,69,Aceites Camaguey,Operaciones y Logística,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,67,Bebidas Camaguey,Distribuidora de Bebidas y Refrescos Camagüey,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,67,Bebidas Camaguey,Base de Transporte,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,67,Bebidas Camaguey,Fábrica de Refrescos Florida,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,67,Bebidas Camaguey,"Fábrica de Refrescos, Ron y Vinos Bartle-Las tunas",Las Tunas,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,68,Cervecería Tínima,Oficina Central,Camaguey,0,Sicema SQL,,DESOFT,1,128,512,1,,384,,,G
+,68,Cervecería Tínima,Elaboración,Camaguey,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,68,Cervecería Tínima,Envasado,Camaguey,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,68,Cervecería Tínima,Ventas,Camaguey,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,68,Cervecería Tínima,Logística,Camaguey,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,68,Cervecería Tínima,Mantenimiento,Camaguey,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,68,Cervecería Tínima,Servicios Productivos,Camaguey,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,68,Cervecería Tínima,Transporte,Camaguey,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,68,Cervecería Tínima,Embotelladora de Ciego de Ávila,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,68,Cervecería Tínima,Embotelladora de  Cervezas las Tunas,Las Tunas,0,Sicema SQL,,DESOFT,1,64,,1,,-64,,,G
+,69,Aceites Camaguey,Oficina Central,Camaguey,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,69,Aceites Camaguey,Comercializadora de Aceite Nuevitas,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,69,Aceites Camaguey,Envasasdora de Aceite Camaguey,Camaguey,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,67,Bebidas Camaguey,Fabrica de Vinagre y Vino Seco Elite,Camaguey,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,72,Cárnica Las Tunas,Aseguramiento  y trasporte.,Las Tunas,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,62,Bebidas Ciego de Ávila,Comercializadora y Transporte,Ciego de Ávila,0,Sicema SQL,,SQL,5,128,,1,1,-128,,,G
+,62,Bebidas Ciego de Ávila,Fca. Refrescos “Coral”,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,54,EPICAI,Oficina Central,Villa Clara,0,Siscomip,01/09/2017,SQL,5,128,,1,,-128,,,G
+,54,EPICAI,Caimar,Villa Clara,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,54,EPICAI,Villamar,Villa Clara,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,54,EPICAI,Isamar,Villa Clara,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,54,EPICAI,Cahamar,Villa Clara,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,54,EPICAI,Pamar,Villa Clara,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Oficina Central,Villa Clara,0,Siscomip,01/05/2017,SQL,5,128,256,1,,128,,,G
+,53,Cervecería Manacas,Mtto y Reparaciones,Villa Clara,0,Sicema SQL,,SQLA,5,128d,,,,#VALUE!,,,G
+,55,PESCAVILLA,Induvilla,Villa Clara,0,Siscomip,01/05/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Intenpez,Villa Clara,0,Siscomip,01/05/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Acuapla,Villa Clara,0,Siscomip,01/05/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Acuacam,Villa Clara,0,Siscomip,01/05/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Acuaman,Villa Clara,0,Siscomip,01/06/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Acuacor,Villa Clara,0,Siscomip,01/06/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Alevicran,Villa Clara,0,Siscomip,01/06/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Piscra,Villa Clara,0,Siscomip,01/06/2017,SQL,5,,,,,0,,,G
+,55,PESCAVILLA,Pescacentro,Villa Clara,0,Siscomip,01/05/2017,SQL,5,,,,,0,,,G
+,53,Cervecería Manacas,Producción,Villa Clara,0,Sicema SQL,,SQLA,5,128d,,,,#VALUE!,,,G
+,53,Cervecería Manacas,Servicios Productivos,Villa Clara,0,Sicema SQL,,SQLA,5,128d,,,,#VALUE!,,,G
+,53,Cervecería Manacas,Operaciones,Villa Clara,0,Sicema SQL,,SQLA,5,128d,,,,#VALUE!,,,G
+,51,Lácteos Villa Clara,Oficina Central,Villa Clara,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,51,Lácteos Villa Clara,Santa Clara,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,51,Lácteos Villa Clara,Placetas,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,,0,,,G
+,51,Lácteos Villa Clara,Sagua La Grande,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,,0,,,G
+,52,Bebidas Villa Clara,Oficina Central,Villa Clara,0,Sicema SQL,,SQLA,5,128,256,1,,128,,,G
+,52,Bebidas Villa Clara,Embotelladora Central,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Vinatera del Norte,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Combinado Cubanacan,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Embotelladora Calabazar,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Embotelladora Amaro,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Comercializadora,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Aseguramiento,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Transporte,Villa Clara,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Fábrica de Ron Cienfuegos,Cienfuegos,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Refrescos y Hielo Cienfuegos,Cienfuegos,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,52,Bebidas Villa Clara,Complejo Cienfuegos,Cienfuegos,0,Sicema SQL,,SQLA,5,,64,,,64,,,G
+,53,Cervecería Manacas,Oficina Central,Villa Clara,0,Sicema SQL,,SQLA,5,128,256,1,,128,,,G
+,55,PESCAVILLA,Pispavon,Villa Clara,0,Siscomip,01/06/2017,SQL,5,,,,,0,,,G
+,62,Bebidas Ciego de Ávila,"Fca. Ref Morón, “Mártires del 30 de Noviembre",Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,56,Cárnica Sancti Spíritus,Oficina Central,Sancti Spíritus,0,Sicema SQL,,SQLA,5,128,,1,,-128,,,G
+,56,Cárnica Sancti Spíritus,"Matadero de reses ""Victor Ibarra de Castro""",Sancti Spíritus,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,59,PESCAPIR,Servipir,Sancti Spíritus,0,Siscomip,01/07/2017,SQL,5,,,,1,0,,,G
+,60,Cárnica Ciego de Ávila,Oficina Central,Ciego de Ávila,0,Sicema SQL,,SQL,5,128,512,1,,384,,,G
+,60,Cárnica Ciego de Ávila,Establecimiento “Osvaldo Sánchez Cabrera”,Ciego de Ávila,0,Sicema SQL,,SQL,5,,128,,,128,,,G
+,60,Cárnica Ciego de Ávila,Establecimiento “Pedro Martínez Brito”,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,60,Cárnica Ciego de Ávila,Empacadora ¨Nelson A. Diaz Jimenez¨,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,60,Cárnica Ciego de Ávila,Comercializadora,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,61,Lácteos Ciego de Ávila,Oficina Central,Ciego de Ávila,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,59,PESCAPIR,Acuisier,Sancti Spíritus,0,Siscomip,01/07/2017,SQL,5,,,,1,0,,,G
+,61,Lácteos Ciego de Ávila,Combinado Lacteo Ciego de Avila,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,61,Lácteos Ciego de Ávila,Comercializadora Lacteos,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,61,Lácteos Ciego de Ávila,Logistica Integral,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,61,Lácteos Ciego de Ávila,Acopio y Distribucion,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,62,Bebidas Ciego de Ávila,Oficina Central,Ciego de Ávila,0,Sicema SQL,,SQL,5,128,512,1,,384,,,G
+,62,Bebidas Ciego de Ávila,Bebidas “La Palma”,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,62,Bebidas Ciego de Ávila,Ventas y Transporte,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,62,Bebidas Ciego de Ávila,Aseguramiento y Servicios Internos,Ciego de Ávila,0,Sicema SQl,,SQL,5,,,,1,0,,,G
+,61,Lácteos Ciego de Ávila,Combinado Lacteo Morón,Ciego de Ávila,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,59,PESCAPIR,Comespir,Sancti Spíritus,0,Siscomip,01/07/2017,SQL,5,,,,1,0,,,G
+,59,PESCAPIR,Acuiza,Sancti Spíritus,0,Siscomip,01/07/2017,SQL,5,,,,1,0,,,G
+,59,PESCAPIR,Indupir,Sancti Spíritus,0,Siscomip,01/07/2017,SQL,5,,,,1,0,,,G
+,56,Cárnica Sancti Spíritus,"Empacadora ""Roberto Quesada Ramirez""",Sancti Spíritus,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,56,Cárnica Sancti Spíritus,Sacrificio de Cerdo,Sancti Spíritus,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,56,Cárnica Sancti Spíritus,Aseguramiento,Sancti Spíritus,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,57,Lácteos  Río Zaza,Oficina Central,Sancti Spíritus,0,Sicema SQL,,SQLA,5,128,,1,,-128,,,G
+,57,Lácteos  Río Zaza,Pasteurizadora Santi Spiritus,Sancti Spíritus,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,57,Lácteos  Río Zaza,Base de Transporte,Sancti Spíritus,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,57,Lácteos  Río Zaza,Fca de Quesos Mérida,Sancti Spíritus,0,Sicema SQl,,SQLA,5,,,,,0,,,G
+,58,EPISAN,Oficina Central,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,128,,,128,,,G
+,58,EPISAN,Induzaza,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,58,EPISAN,Pescazaza,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,58,EPISAN,Pescasilda,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,58,EPISAN,Tecnisan,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,58,EPISAN,Capacitación y desarrollo,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,58,EPISAN,Aseguramiento y servicio,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,58,EPISAN,"Comercial, ventas y transporte",Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,58,EPISAN,Unidad Organizativa Yaguajay,Sancti Spíritus,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,59,PESCAPIR,Oficina Central,Sancti Spíritus,0,Siscomip,01/07/2017,SQL,5,128,256,1,,128,,,G
+,56,Cárnica Sancti Spíritus,Combinado Cárnico,Sancti Spíritus,0,Sicema SQL,,SQLA,5,,,,1,0,,,G
+,73,Lácteos Las Tunas,Oficina Central,Las Tunas,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,73,Lácteos Las Tunas,Fabrica de Helado Tunas,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,73,Lácteos Las Tunas,Puerto Padre,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,85,Cervecería Hatuey,Mantenimiento,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,85,Cervecería Hatuey,Embotelladora Granma,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,85,Cervecería Hatuey,Embotelladora Guantánamo,Guantánamo,0,Sicema SQL,01/04/2017,SQLA,5,,,,,0,,,G
+,86,Aceites Santiago de Cuba,No tiene,Santiago de Cuba,0,Sicema SQL,,DESOFT,1,128,,1,,-128,,,G
+,87,PDS,Oficina Central,Santiago de Cuba,0,Sicema SQL,,DESOFT,1,512,,1,,-512,,,G
+,87,PDS,Mantenimiento,Santiago de Cuba,0,Sicema SQL,,DESOFT,1,512d,,,,#VALUE!,,,G
+,87,PDS,Aseguramiento,Santiago de Cuba,0,Sicema SQL,,DESOFT,1,512d,,,,#VALUE!,,,G
+,85,Cervecería Hatuey,Transporte,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,87,PDS,Planta de Producción,Santiago de Cuba,0,Sicema SQL,,DESOFT,1,512d,,,,#VALUE!,,,G
+,88,PESCASAN,Acuicon,Santiago de Cuba,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,88,PESCASAN,Acuinor,Santiago de Cuba,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,88,PESCASAN,Palma-Santiago,Santiago de Cuba,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,88,PESCASAN,Caribe-Pescadería,Santiago de Cuba,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,88,PESCASAN,Punta Gorda,Santiago de Cuba,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,89,Cárnica Guantánamo,Oficina Central,Guantánamo,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,89,Cárnica Guantánamo,Reinaldo Broks Bravo,Guantánamo,0,Sicema,01/07/2017,SQL,5,,,,,0,,,G
+,88,PESCASAN,Oficina Central,Santiago de Cuba,0,Siscomip,01/09/2017,SQL,5,128,256,1,,128,,,G
+,85,Cervecería Hatuey,Comercial,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,85,Cervecería Hatuey,Servicios Productivos,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,85,Cervecería Hatuey,Logística,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,Pasteurizadora Turquino,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,Fabrica de Helados Siboney,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,Fabrica de Helados II Frente,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,La Maya,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,Base de transporte,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,84,Bebidas Santiago de Cuba,Oficina Central,Santiago de Cuba,0,Sicema SQL,01/05/2017,SQL,5,128,,1,,-128,,,G
+,84,Bebidas Santiago de Cuba,Comercial,Santiago de Cuba,0,Sicema SQL,01/05/2017,SQL,5,,,,1,0,,,G
+,84,Bebidas Santiago de Cuba,Operaciones y logística,Santiago de Cuba,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,84,Bebidas Santiago de Cuba,Ron y Hiejo Manuel Fariñas,Santiago de Cuba,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,84,Bebidas Santiago de Cuba,Bebidas y Refrescos Palma Soriano,Santiago de Cuba,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,84,Bebidas Santiago de Cuba,Refrescos José Martí,Santiago de Cuba,0,Sicema SQL,01/05/2017,SQL,5,,,,,0,,,G
+,84,Bebidas Santiago de Cuba,Refrescos y Hiejo Guantánamo,Guantánamo,0,Sicema SQL,01/07/2017,SQL,5,,,,,0,,,G
+,84,Bebidas Santiago de Cuba,Bebidas Guantanamo Baracoa,Guantánamo,0,Sicema SQL,01/07/2017,SQL,5,,,,,0,,,G
+,84,Bebidas Santiago de Cuba,"Transporte, distribución y ventas Guantanamo",Guantánamo,0,Sicema SQL,01/07/2017,SQL,5,,,,,0,,,G
+,85,Cervecería Hatuey,Oficina Central,Santiago de Cuba,0,Sicema SQL,,SQL,5,128,256,1,,128,,,G
+,85,Cervecería Hatuey,Envasado,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,85,Cervecería Hatuey,Elaboración,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,89,Cárnica Guantánamo,Patricio Sierra Alta,Guantánamo,0,Sicema,01/07/2017,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,Combinado Lacteo Palma,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,89,Cárnica Guantánamo,14 de Noviembre,Guantánamo,0,Sicema,01/07/2017,SQL,5,,,,,0,,,G
+,90,Lácteos Guantánamo,Oficina Central,Guantánamo,0,Sicema SQL,01/07/2017,SQL,5,128,,1,,-128,,,G
+,94,PESCAGUAN,Guantánamo,Guantánamo,0,Siscomip,01/10/2017,SQL,5,,,,1,0,,,G
+,95,GEIA,Administración,La Habana,0,Siscomip,01/05/2017,SQL,5,12352,,4,,-12352,,,G
+,3,Bebidas Pinar del Río,Oficina Central,Pinar del Río,0,Sicema SQL,,SQL,5,128,512,1,,384,,,G
+,2,Lácteos Pinar del Río,Transporte,Pinar del Río,0,Sicema SQL,,SQL,5,128d,,,,#VALUE!,,,G
+,2,Lácteos Pinar del Río,Servicio,Pinar del Río,0,Sicema SQL,,SQL,5,128d,,,,#VALUE!,,,G
+,2,Lácteos Pinar del Río,Mantenimiento,Pinar del Río,0,Sicema SQL,,SQL,5,128d,,,,#VALUE!,,,G
+,2,Lácteos Pinar del Río,Aseguramiento,Pinar del Río,0,Sicema SQL,,SQL,5,128d,,,,#VALUE!,,,G
+,94,PESCAGUAN,Baramar,Guantánamo,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,2,Lácteos Pinar del Río,Combinado Lácteo Sandino,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,2,Lácteos Pinar del Río,Oficina Central,Artemisa,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,1,Cárnica Pinar del Río,Fulgencio Oroz,Artemisa,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,1,Cárnica Pinar del Río,Viñales,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,1,Cárnica Pinar del Río,Venegas,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,1,Cárnica Pinar del Río,Guane,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,1,"Cárn,ica Pinar del Río",Aseguramiento,Pinar del Río,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,1,"Cárnica ""Pinar del Río""",Oficina Central,Pinar del Río,0,Sicema SQL,,SQL,5,128,,1,1,-128,,,G
+,2,Lácteos Pinar del Río,Combinado Lácteo Pinar del Río y Confitería,Pinar del Río,0,Sicema SQL,,SQL,5,128d,,,,#VALUE!,,,G
+,94,PESCAGUAN,Caimar,Guantánamo,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,94,PESCAGUAN,Oficina Central,Guantánamo,0,Siscomip,01/10/2017,SQL,5,64,256,1,,192,,,G
+,93,PESCATUN,Manatí,Las Tunas,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,90,Lácteos Guantánamo,Helados y Mezcla Física,Guantánamo,0,Sicema SQL,01/07/2017,SQL,5,,,,,0,,,G
+,90,Lácteos Guantánamo,Planta de Leche,Guantánamo,0,Sicema SQL,01/07/2017,SQL,5,,,,,0,,,G
+,90,Lácteos Guantánamo,Logistica,Guantánamo,0,Sicema SQL,01/07/2017,SQL,5,,,,,0,,,G
+,90,Lácteos Guantánamo,Baracoa,Guantánamo,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,91,EPA Isla,Oficina Central,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,128,512,1,,384,,,G
+,91,EPA Isla,Lacteo,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,1,0,,,G
+,91,EPA Isla,Cárnico,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,1,0,,,G
+,92,PESCAISLA,Oficina Central,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,256,,1,,-256,,,G
+,92,PESCAISLA,Islamar,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,92,PESCAISLA,Induisla,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,92,PESCAISLA,Acuisla,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,92,PESCAISLA,Tecnisla,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,92,PESCAISLA,Servisla,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,92,PESCAISLA,Islacomer,Isla de la Juventud,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,93,PESCATUN,Oficina Central,Las Tunas,0,Siscomip,01/07/2017,SQL,5,64,128,1,,64,,,G
+,93,PESCATUN,Puerto Padre,Las Tunas,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,93,PESCATUN,Guayabal,Las Tunas,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,89,Cárnica Guantánamo,Aseguramiento y Trasnporte,Guantánamo,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,,Santiago de Cuba,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,83,Lácteos Santiago de Cuba,Oficina Central,Santiago de Cuba,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,82,Cárnica Santiago de Cuba,Aseg,Santiago de Cuba,0,Sicema SQL,01/05/2017,SQL,5,,,,,0,,,G
+,75,Lácteos Holguín,Servicios Generales,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,76,PESCAHOL,Oficina Central,Holguín,0,Sicema SQL,01/06/2017,SQL,5,128,,1,,-128,,,G
+,76,PESCAHOL,Comar,Holguín,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,76,PESCAHOL,Pescanipe,Holguín,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,76,PESCAHOL,Acuanipe,Holguín,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,76,PESCAHOL,Conchazul,Holguín,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,76,PESCAHOL,Logística,Holguín,0,Sicema SQL,01/06/2017,SQL,5,,,,,0,,,G
+,75,Lácteos Holguín,Fábrica de Helados Banes,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,77,Cárnica Granma,Oficina Central,Granma,0,Sicema SQL,,DESOFT,1,128,512,1,,384,,,G
+,77,Cárnica Granma,Cárnico Bayamo,Granma,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,77,Cárnica Granma,Cárnico ¨Raúl Chacón Jorge¨,Granma,0,Sicema SQL,,DESOFT,1,,128,,,128,,,G
+,77,Cárnica Granma,Cárnico ¨Inocencio Blackwood Iborraja¨,Granma,0,Sicema SQL,,DESOFT,1,,128,,,128,,,G
+,78,Lácteos Bayamo,Oficina Central,Granma,0,Sicema SQL,,SQLA,5,1024,,1,,-1024,,,G
+,78,Lácteos Bayamo,Lácteos Bayamo,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,78,Lácteos Bayamo,Dietéticos Bayamo,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,78,Lácteos Bayamo,El Alba,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,77,Cárnica Granma,Logística,Granma,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,75,Lácteos Holguín,Fábrica de Helados Mayarí,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,75,Lácteos Holguín,Acopio de leche y distribución de productos lácteos,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,75,Lácteos Holguín,Combinado lacteo Moa,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,73,Lácteos Las Tunas,Jesus Menendes,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,73,Lácteos Las Tunas,Manati,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,73,Lácteos Las Tunas,Jobabo,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,73,Lácteos Las Tunas,Colombia,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,73,Lácteos Las Tunas,Amancio,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,73,Lácteos Las Tunas,Majibacoa,Las Tunas,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,74,Cárnica Holguín,Oficina Central,Holguín,0,Sicema SQL,,DESOFT,1,128,1024,1,,896,,,G
+,74,Cárnica Holguín,Combinado Felipe Fuentes,Holguín,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,74,Cárnica Holguín,Producciones Especiales,Holguín,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,74,Cárnica Holguín,Abastecimiento y Transporte,Holguín,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,74,Cárnica Holguín,Combinado Martires del Corynthia,Holguín,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,74,Cárnica Holguín,Frank País,Holguín,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,74,Cárnica Holguín,Alberto Hernandez Cano,Holguín,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,75,Lácteos Holguín,Oficina Central,Holguín,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,75,Lácteos Holguín,Combinado Lácteo “Rafael Freyre Torres”,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,75,Lácteos Holguín,Fábrica de QuesosVarios,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,75,Lácteos Holguín,Combinado lacteo Levisa,Holguín,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,78,Lácteos Bayamo,La Hacienda,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,78,Lácteos Bayamo,Lácteos Manzanillo,Granma,0,Sicema SQL,,SQLA,5,256,,1,,-256,,,G
+,78,Lácteos Bayamo,Lácteos Media Luna,Granma,0,Sicema SQL,,SQLA,5,256,,1,,-256,,,G
+,78,Lácteos Bayamo,Servicios Generales,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,80,EPIGRAN,Serconiq,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,80,EPIGRAN,Astiniq,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,80,EPIGRAN,Induniq,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,80,EPIGRAN,Escabo,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,81,PESCAGRAN,Oficina Central,Granma,0,Siscomip,01/06/2017,SQL,5,128,,1,,-128,,,G
+,81,PESCAGRAN,Acuipaso,Granma,0,Siscomip,01/06/2017,SQL,5,,128,,1,128,,,G
+,81,PESCAGRAN,Incobay,Granma,0,Siscomip,01/06/2017,SQL,5,,128,,1,128,,,G
+,81,PESCAGRAN,Acuirriba,Granma,0,Siscomip,01/06/2017,SQL,5,,128,,1,128,,,G
+,81,PESCAGRAN,Pescauto,Granma,0,Siscomip,01/06/2017,SQL,5,,128,,1,128,,,G
+,81,PESCAGRAN,Codisman,Granma,0,Siscomip,01/06/2017,SQL,5,,128,,1,128,,,G
+,81,PESCAGRAN,Logística,Granma,0,Siscomip,01/06/2017,SQL,5,,,,,0,,,G
+,82,Cárnica Santiago de Cuba,Oficina Central,Santiago de Cuba,0,Sicema SQL,01/04/2017,SQL,5,,128,,,128,,,G
+,82,Cárnica Santiago de Cuba,El Cristo,Santiago de Cuba,0,Sicema SQL,01/05/2017,SQL,5,,,,,0,,,G
+,82,Cárnica Santiago de Cuba,Servicios Generales,Santiago de Cuba,0,Sicema SQL,01/04/2017,SQL,5,,,,,0,,,G
+,82,Cárnica Santiago de Cuba,Turismo,Santiago de Cuba,0,Sicema SQL,01/05/2017,SQL,5,,,,,0,,,G
+,82,Cárnica Santiago de Cuba,Aseguramiento,Santiago de Cuba,0,Sicema SQL,01/04/2017,SQL,5,,,,,0,,,G
+,82,Cárnica Santiago de Cuba,Carlos Veloz,Santiago de Cuba,0,Sicema SQL,01/05/2017,SQL,5,,,,,0,,,G
+,80,EPIGRAN,Extraniq,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,50,Cárnica Villa Clara,Osvaldo Herrera,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,80,EPIGRAN,Técnica Manzanillo,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,80,EPIGRAN,Comercial,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,78,Lácteos Bayamo,Comercialización de Insumos,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,78,Lácteos Bayamo,Transporte para el Acopio,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,78,Lácteos Bayamo,Transporte para la Distribución,Granma,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,79,Bebidas Granma,Oficina Central,Granma,0,Sicema SQL,,SQL,5,1024,,1,,-1024,,,G
+,79,Bebidas Granma,Vinos Bayamo,Granma,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,79,Bebidas Granma,Refrescos y Hielo Bayamo,Granma,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,79,Bebidas Granma,Comercial Granma,Granma,0,Sicema SQL,,SQL,5,,256,,1,256,,,G
+,79,Bebidas Granma,Ron Pinilla,Granma,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,79,Bebidas Granma,Refrescos Manzanillo,Granma,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,79,Bebidas Granma,Operaciones Granma,Granma,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,79,Bebidas Granma,Refrescos Holguín,Holguín,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,79,Bebidas Granma,Combinado Pedro Díaz Coello,Holguín,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,79,Bebidas Granma,Comercial Holguín,Holguín,0,Sicema SQL,,SQL,5,,256,,1,256,,,G
+,79,Bebidas Granma,Operaciones Holguin,Holguín,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,80,EPIGRAN,Oficina Central,Granma,0,Siscomip,01/07/2017,SQL,5,128,512,1,,384,,,G
+,80,EPIGRAN,Extractiva Mzllo,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,80,EPIGRAN,Industria Manzanillo,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,80,EPIGRAN,Logística y servicios,Granma,0,Siscomip,01/07/2017,SQL,5,,,,,0,,,G
+,3,Bebidas Pinar del Río,Refrescos “Orlando Nodarse”,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,50,Cárnica Villa Clara,Alamo,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,2,0,,,G
+,50,Cárnica Villa Clara,Lorenzo González,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,15,Bebidas Habana,Oficina Central,La Habana,0,Sicema SQL,,DESOFT,1,,256,,9,256,,,G
+,15,Bebidas Habana,Ronera Occidental,La Habana,0,Sicema,01/06/2017,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Cubay,La Habana,0,Sicema SQL,01/03/2017,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Metropolitana,La Habana,0,Sicema SQL,01/05/2017,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Latinoamericano,La Habana,0,Sicema SQL,01/06/2017,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Vinatera Occidental,La Habana,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Vinagre Deleite,La Habana,0,Sicema SQL,01/06/2017,DESOFT,1,,,,1,0,,,G
+,14,ASECAR,La Serafina,Mayabeque,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,15,Bebidas Habana,Concentrados,La Habana,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Hielo,La Habana,0,Sicema SQL,01/06/2017,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Logística,La Habana,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,La Cotorra,La Habana,0,Sicema,01/06/2017,DESOFT,1,,,,1,0,,,G
+,15,Bebidas Habana,Bebidas y Refrescos Isla de la Juventud,Isla de la Juventud,0,Sicema,01/06/2017,DESOFT,1,,,,1,0,,,G
+,16,Bebidas Mayabeque,Oficina Central,La Habana,0,Sicema SQL,,SQLA,5,128,256,1,,128,,,G
+,16,Bebidas Mayabeque,Operaciones,La Habana,0,Sicema SQL,,SQLA,5,,,,1,0,,,G
+,16,Bebidas Mayabeque,Mayabeque,Mayabeque,0,Sicema SQL,,SQLA,5,,,,1,0,,,G
+,15,Bebidas Habana,Comercializadora,La Habana,0,Sicema,01/06/2017,DESOFT,1,,,,1,0,,,G
+,14,ASECAR,Oficina Central,La Habana,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,13,EAIL,Almacenes,La Habana,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,13,EAIL,Transporte,La Habana,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,11,Café,Torrefactora Camagüey,Camaguey,0,Sicema SQL,,SQL,5,,64,,1,64,,,G
+,11,Café,Torrefactora Holguín,Holguín,0,Sicema SQL,,SQL,5,,64,,,64,,,G
+,11,Café,Torrefactora Santiago Cuba,Santiago de Cuba,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,12,Conservas,Oficina Central,La Habana,0,Sicema SQL,,SQL,5,256,512,1,,256,,,G
+,12,Conservas,Doña Delicias,La Habana,0,Sicema SQL,,SQLA,5,64,,1,2,-64,,,G
+,12,Conservas,ConFruVe,La Habana,0,Sicema SQL,01/06/2017,SQLA,5,128,,1,,-128,,,G
+,12,Conservas,"Aseguramientos ""José Luis Tasende""",La Habana,0,Sicema,01/06/2017,SQLA,5,,128,,,128,,,G
+,12,Conservas,La Conchita,Pinar del Río,0,Sicema SQL,,SQL,5,,128,,,128,,,G
+,12,Conservas,Los Atrevidos,Villa Clara,0,Sicema SQL,,SQLA,5,128,,1,1,-128,,,G
+,12,Conservas,Sancti Spíritus,Sancti Spíritus,0,Sicema SQL,,DESOFT,1,128,,1,1,-128,,,G
+,12,Conservas,Ciego de Ávila,Ciego de Ávila,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,12,Conservas,Camagüey,Camaguey,0,Sicema SQL,,SQL,5,64,,1,2,-64,,,G
+,12,Conservas,Turquino,Holguín,0,Sicema SQL,,DESOFT,1,64,,1,1,-64,,,G
+,12,Conservas,Granma,Granma,0,Sicema SQL,,SQLA,5,,64,,,64,,,G
+,12,Conservas,Valle de Caujerí,Guantánamo,0,Sicema SQL,,EXCEL,6,,64,,,64,,,G
+,12,Conservas,Santiago,Santiago de Cuba,0,Sicema SQL,01/04/2017,SQLA,5,64,,1,,-64,,,G
+,13,EAIL,Oficina Central,La Habana,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,16,Bebidas Mayabeque,Matanzas,Matanzas,0,Sicema SQL,,SQLA,5,128,,1,1,-128,,,G
+,11,Café,Torrefactora Ciego de Avila,Ciego de Ávila,0,Sicema SQL,,SQLA,5,,64,,1,64,,,G
+,16,Bebidas Mayabeque,Jovellanos,Matanzas,0,Sicema SQL,,SQLA,5,,,,1,0,,,G
+,17,Cervecería Guido Perez,Comercializadora de Maltas y Cerveza,La Habana,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,20,Cubana del Pan,Dirección Provincial de Cienfuegos,Cienfuegos,0,Sicema SQL,,SQLA,5,128,,1,1,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Villa Clara,Villa Clara,0,Sicema SQL,,SQLA,5,128,,1,1,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Sancti Spiritus,Sancti Spíritus,0,Sicema SQL,,SQLA,5,128,,1,1,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Ciego de Avila,Ciego de Ávila,0,Sicema SQL,,DESOFT,1,,128,,1,128,,,G
+,20,Cubana del Pan,Dirección Provincial de Camaguey,Camaguey,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,20,Cubana del Pan,Dirección Provincial de Las Tunas,Las Tunas,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Holguín,Holguín,0,Sicema SQL,,DESOFT,1,128,,1,1,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Matanzas,Matanzas,0,Sicema SQL,,SQLA,5,128,,1,1,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Granma,Granma,0,Sicema SQL,,SQL,5,128,,1,1,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Guantanamo,Guantánamo,0,Sicema,01/05/2017,SQL,5,128,,1,,-128,,,G
+,20,Cubana del Pan,Dirección del Municipio Especial Isla de la Juventud,Isla de la Juventud,0,Sicema,01/06/2017,SQL,5,,128,,1,128,,,G
+,21,Molinera,Oficina Central,La Habana,0,Sicema SQL,,SQL,5,512,,1,,-512,,,G
+,21,Molinera,Cereales Turcios Limas,La Habana,0,Sicema SQL,01/08/2017,DESOFT,1,,,,1,0,,,G
+,21,Molinera,Aseguramiento y servicios para la Industria Molinera ( ASIM),La Habana,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,21,Molinera,Cereales Jose Antonio Echevarría (JAE),La Habana,0,Sicema SQL,01/08/2017,SQL,5,,,,1,0,,,G
+,21,Molinera,Molinera Confitera Cárdenas.,Matanzas,0,Sicema SQL,,SQLA,5,128,,2,2,-128,,,G
+,20,Cubana del Pan,Dirección Provincial de Santiago de Cuba,Santiago de Cuba,0,Sicema SQL,,SQL,5,,128,,1,128,,,G
+,20,Cubana del Pan,Dirección Provincial de Pinar del Río,Pinar del Río,0,Sicema SQL,,DISAIC,1,,128,,,128,,,G
+,20,Cubana del Pan,Unidad Empresarial de base Productora y Comercializadora Cubana del Pan,La Habana,0,Sicema,01/07/2017,DISAIC,1,,128,,1,128,,,G
+,20,Cubana del Pan,Dirección Provincial de Programas Especiales,La Habana,0,Sicema,01/06/2017,DISAIC,1,128,,1,1,-128,,,G
+,17,Cervecería Guido Perez,Produccion,La Habana,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,17,Cervecería Guido Perez,Logistica y Transporte,La Habana,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,17,Cervecería Guido Perez,Embotelladora Princesa,Pinar del Río,0,Sicema SQL,,DESOFT,1,128d,,,,#VALUE!,,,G
+,18,Aceites Habana,No tiene,La Habana,0,,,SQL,5,64,,1,,-64,,,G
+,19,Confitera,Oficina Central,La Habana,0,Sicema SQL,,SQL,5,512,,1,,-512,,,G
+,19,Confitera,Derivados de La Harina Gamby,La Habana,0,Sicema SQL,,DISAIC,1,512d,128,,,#VALUE!,,,G
+,19,Confitera,Chocolateria y Derivados de la Harina Guamá,La Habana,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,19,Confitera,Aseguramiento y Trasporte,La Habana,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,19,Confitera,Pastas Alimenticias Vita Nuova,Mayabeque,0,Sicema SQL,01/08/2017,DISAIC,1,64,,1,,-64,,,G
+,19,Confitera,Pastas Alimenticias Cienfuegos Martha Abreu,Cienfuegos,0,Sicema SQL,,SQLA,5,,64,,1,64,,,G
+,19,Confitera,Confitera Caibarién,Villa Clara,0,Sicema SQL,,SQLA,5,512,,1,2,-512,,,G
+,19,Confitera,Confitera Camagüey,Camaguey,0,Sicema SQL,,SQL,5,64,,1,1,-64,,,G
+,19,Confitera,Sorbetos Banes,Holguín,0,Sicema SQL,,SQL,5,64,,1,1,-64,,,G
+,19,Confitera,Pastas y Caramelos Santiago de Cuba,Santiago de Cuba,0,Sicema SQL,,DESOFT,1,64,,1,1,-64,,,G
+,19,Confitera,Derivados del Cacao Baracoa,Guantánamo,0,Sicema SQL,,SQL,5,64,,1,1,-64,,,G
+,20,Cubana del Pan,Oficina Central,La Habana,0,Sicema SQL,,DISAIC,1,512,,1,3,-512,,,G
+,20,Cubana del Pan,Dirección Provincial de Artemisa y Mayabeque,La Habana,0,Sicema SQL,01/06/2017,DISAIC,1,,128,,,128,,,G
+,17,Cervecería Guido Perez,Oficina Central,La Habana,0,Sicema SQL,,DESOFT,1,128,512,1,,384,,,G
+,21,Molinera,Cereales Cienfuegos,Cienfuegos,0,Sicema SQL,,SQLA,5,64,,1,3,-64,,,G
+,11,Café,Torrefactora Santi Spiritus,Sancti Spíritus,0,Sicema SQL,,SQLA,5,,64,,1,64,,,G
+,11,Café,Torrefactora Villa Clara,Villa Clara,0,Sicema SQL,,SQLA,5,,64,,1,64,,,G
+,6,Lácteos Artemisa,Oficina Central,Artemisa,0,Sicema SQL,,DESOFT,1,128,,1,,-128,,,G
+,6,Lácteos Artemisa,Aseguramiento,Artemisa,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,6,Lácteos Artemisa,Bahía Honda,Artemisa,1,Sicema,01/05/2017,DESOFT,1,,,,1,0,,,G
+,6,Lácteos Artemisa,Santa Cruz,Artemisa,1,Sicema,01/04/2017,DESOFT,1,,,,1,0,,,G
+,6,Lácteos Artemisa,Guanajay,Artemisa,1,Sicema,01/04/2017,DESOFT,1,,,,,0,,,G
+,6,Lácteos Artemisa,Balkán,Artemisa,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,6,Lácteos Artemisa,Chocolé,Artemisa,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,5,PESCARIO,La Paila,Artemisa,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,6,Lácteos Artemisa,Servicios Generales,Artemisa,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,7,Cárnica Tauro,Comercializadora en CUC,La Habana,0,Sicema SQL,,BKMIS,1,,,,2,0,,,G
+,7,Cárnica Tauro,Comercializadora en MN,La Habana,0,Sicema SQL,,BKMIS,1,,,,1,0,,,G
+,7,Cárnica Tauro,El Miño,La Habana,0,Sicema SQL,,BKMIS,1,,,,1,0,,,G
+,7,Cárnica Tauro,Española I,La Habana,0,Sicema SQL,,BKMIS,1,,,,1,0,,,G
+,7,Cárnica Tauro,Abel Santamaria,La Habana,0,Sicema SQL,,BKMIS,1,,,,1,0,,,G
+,7,Cárnica Tauro,"Transporte, Aseguramiento y Servicios",La Habana,0,Sicema SQL,,BKMIS,1,,,,1,0,,,G
+,7,Cárnica Tauro,Matadero San Pedrito,Artemisa,0,Sicema SQL,,BKMIS,1,,,,1,0,,,G
+,7,Cárnica Tauro,Oficina Central,La Habana,0,Sicema SQL,,BKMIS,1,128,,1,,-128,,,G
+,5,PESCARIO,Industria San Cristóbal,Artemisa,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,5,PESCARIO,La Juventud,Pinar del Río,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,5,PESCARIO,Industria y Distribición,Pinar del Río,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,3,Bebidas Pinar del Río,Ventas,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,3,Bebidas Pinar del Río,Transporte y Servicios,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,3,Bebidas Pinar del Río,Servicios “Los Portales”,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,3,Bebidas Pinar del Río,Artemisa,Artemisa,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,4,EPICOL,Oficina Central,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,512,,1,,-512,,,G
+,4,EPICOL,Extractiva Coloma,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,512d,,,,#VALUE!,,,G
+,4,EPICOL,Aseguramiento,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,512d,,,,#VALUE!,,,G
+,4,EPICOL,Industria,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,512d,,,,#VALUE!,,,G
+,4,EPICOL,Pesquerta Boca de Galafre,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,,256,,,256,,,G
+,4,EPICOL,Pesquera Cortés,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,,,,1,0,,,G
+,4,EPICOL,PESQUERA Arroyos de Mantua,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,,,,1,0,,,G
+,4,EPICOL,Pesquera Puerto Esperanza,Pinar del Río,0,Sicema SQL,01/05/2017,SQL,5,,,,1,0,,,G
+,4,EPICOL,Morrillo,Artemisa,0,Siscomip,01/05/2017,SQL,5,,,,,0,,,G
+,5,PESCARIO,Oficina Central,Pinar del Río,0,Siscomip,01/09/2017,SQL,5,128,,1,,-128,,,G
+,5,PESCARIO,Extractiva P.del Río,Pinar del Río,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,5,PESCARIO,Comercializadora,Pinar del Río,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,5,PESCARIO,Aseguramiento,Pinar del Río,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,8,Cárnica Habana,Oficina Central,La Habana,0,Sicema SQL,,CITMATEL,1,128,,1,,-128,,,G
+,11,Café,Torrefactora Cienfuegos,Cienfuegos,0,Sicema SQL,,SQLA,5,,64,,1,64,,,G
+,8,Cárnica Habana,"Empacadora ""Camilo Cienfuegos""",La Habana,0,Sicema,01/06/2017,CITMATEL,1,,,,,0,,,G
+,8,Cárnica Habana,Cárnico Wajay,La Habana,0,Sicema,01/06/2017,CITMATEL,1,,,,,0,,,G
+,10,C. Lácteos Habana,Ventas,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,Mantenimiento y Servicios Automotor,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,Servicios Industriales,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,"Servicios Alimentarios, Recreativos y Culturales",La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,Laboratorio Central,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,Queso Nazareno,Mayabeque,0,Sicema SQL,,VERSAT,1,,64,,,64,,,G
+,10,C. Lácteos Habana,Aigibe,Mayabeque,0,Sicema SQL,,VERSAT,1,256,,1,,-256,,,G
+,10,C. Lácteos Habana,Aseguramiento,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,11,Café,Oficina Central,La Habana,0,Sicema SQL,,DESOFT,1,128,,1,,-128,,,G
+,11,Café,Torrefactora 8 Vías,La Habana,0,Sicema SQL,,SQLA,5,64,,1,1,-64,,,G
+,11,Café,Torrefactora Café Selectos,La Habana,0,Sicema SQL,,SQLA,5,,64,,1,64,,,G
+,11,Café,Servicio y Catacion,La Habana,0,Sicema,01/04/2017,SQLA,5,,256,,,256,,,G
+,11,Café,"Aseguramiento, Servicios y Transporte",La Habana,0,Sicema SQL,,SQLA,5,128,,1,,-128,,,G
+,11,Café,Torrefactora Pinar,Pinar del Río,0,Sicema,01/04/2017,SQL,5,64,,1,,-64,,,G
+,11,Café,Torrefactora Artemisa,Artemisa,2,Sicema,01/04/2017,SQLA,5,,64,,1,64,,,G
+,11,Café,Torrefactora Matanzas,Matanzas,0,Sicema SQL,,SQLA,5,,64,,1,64,,,G
+,11,Café,Torrefactora Regil,La Habana,0,Sicema SQL,,SQLA,5,128,,1,,-128,,,G
+,10,C. Lácteos Habana,Comercializadora en Divisas,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,Queso Crema Managua,La Habana,0,Sicema SQL,,VERSAT,1,,128,,,128,,,G
+,10,C. Lácteos Habana,Combinado,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,8,Cárnica Habana,Frigorífico El Calvario,La Habana,0,Sicema SQL,01/07/2017,CITMATEL,1,,,,,0,,,G
+,8,Cárnica Habana,Frigorífico Puerto,La Habana,0,Sicema SQL,01/07/2017,CITMATEL,1,,,,,0,,,G
+,8,Cárnica Habana,Base Transporte Iván Morejón,La Habana,0,Sicema SQL,01/07/2017,CITMATEL,1,,,,,0,,,G
+,8,Cárnica Habana,Empacadora INDAL,La Habana,0,Sicema SQL,01/07/2017,CITMATEL,1,,,,,0,,,G
+,9,Lácteos Coppelia,Oficina Central,La Habana,0,Sicema SQL,,DISAIC,1,512,,1,,-512,,,G
+,9,Lácteos Coppelia,Fábrica de Helados Coppelia,La Habana,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,9,Lácteos Coppelia,Fábrica de Quesos Siboney,La Habana,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,9,Lácteos Coppelia,Fernando Chenard Piña,La Habana,0,Sicema SQL,,DISAIC,1,,,,,0,,,G
+,9,Lácteos Coppelia,Taller Mini -planta,La Habana,0,Sicema SQL,,DISAIC,1,,,,,0,,,G
+,9,Lácteos Coppelia,Comercializadora Guarina,La Habana,0,Sicema SQL,,DISAIC,1,,,,,0,,,G
+,9,Lácteos Coppelia,Fábrica de yogurt Beatriz,La Habana,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,9,Lácteos Coppelia,Aseguramiento y Transporte,La Habana,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,10,C. Lácteos Habana,Oficina Central,La Habana,0,Sicema SQL,,VERSAT,1,512,,1,,-512,,,G
+,10,C. Lácteos Habana,Queso y Mezcla Física,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,Helados,La Habana,0,Sicema SQL,,VERSAT,1,512d,,,,#VALUE!,,,G
+,10,C. Lácteos Habana,Moralitos,La Habana,0,Sicema SQL,,VERSAT,1,,128,,,128,,,G
+,10,C. Lácteos Habana,Envalac,La Habana,0,Sicema SQL,,VERSAT,1,,,,,0,,,G
+,8,Cárnica Habana,Empacadora El Tigre,La Habana,0,Sicema,01/06/2017,CITMATEL,1,,,,,0,,,G
+,21,Molinera,Molino Antilla,Holguín,0,Sicema SQL,,SQL,5,128,,1,1,-128,,,G
+,21,Molinera,Cereales Santiago,Santiago de Cuba,0,Sicema SQL,,SQL,5,128,,1,,-128,,,G
+,22,ALIBEC,Oficina Central,La Habana,0,Sicema SQL,,SQLA,5,128,,1,,-128,,,G
+,41,PESCAHABANA,Oficina Central,Mayabeque,0,Siscomip,01/10/2017,SQL,5,128,,1,,-128,,,G
+,41,PESCAHABANA,Logística,Mayabeque,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,41,PESCAHABANA,Extractiva,Mayabeque,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,41,PESCAHABANA,Técnica,Mayabeque,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,41,PESCAHABANA,Industria,Mayabeque,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,41,PESCAHABANA,Cabañas,Artemisa,0,Siscomip,01/10/2017,SQL,5,,,,1,0,,,G
+,42,ACUABANA,Oficina Central,Mayabeque,0,Siscomip,01/11/2017,SQL,5,128,,1,,-128,,,G
+,40,MAR Y PESCA,No tiene,La Habana,0,Siscomip,01/06/2017,SQL,5,256,512,1,,256,,,G
+,42,ACUABANA,Mauripez,Mayabeque,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,42,ACUABANA,Mampez,Mayabeque,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,42,ACUABANA,Rotipez,Mayabeque,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,42,ACUABANA,Servihabana,Mayabeque,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,43,Cárnica Nueva Paz,No tiene,Mayabeque,0,Sicema SQL,01/04/2017,DESOFT,1,128,,1,,-128,,,G
+,44,Cárnica Matanza,Oficina Central,Matanzas,0,Sicema SQL,,SQLA,5,128,,1,,-128,,,G
+,44,Cárnica Matanza,Reynold García,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,44,Cárnica Matanza,Ciro Redondo,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,42,ACUABANA,Habanapez,Mayabeque,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,39,ESEP,Agencia No.11 Santiago de Cuba,Santiago de Cuba,0,Sicema SQL,,DESOFT,1,64,,1,,-64,,,G
+,39,ESEP,Agencia No.10 Villa Clara,Villa Clara,0,Sicema SQL,,SQLA,5,,,,2,0,,,G
+,39,ESEP,Agencia No.9 Cardenas,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,36,IDS,Montaje y Servicios Electromecánicos Camagüey,Camaguey,0,Sicema SQL,,SQL,5,,,,2,0,,,G
+,36,IDS,Diseño y Servicios de Ingeniería de Granma,Granma,0,Sicema SQL,,SQLA,5,,,,1,0,,,G
+,37,ALIMPEX,No tiene,La Habana,0,Sicema SQL,01/04/2017,SQL,5,512,,1,1,-512,,,G
+,38,SERIC,Oficina Central,La Habana,0,Siscomip,01/11/2017,SQL,5,128,256,1,1,128,,,G
+,38,SERIC,Occidente,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,1,0,,,G
+,38,SERIC,Servicios Generales,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,1,0,,,G
+,38,SERIC,Villa  Clara,Villa Clara,0,Siscomip,01/10/2017,SQL,5,,,,2,0,,,G
+,38,SERIC,Oriente,Holguín,0,Siscomip,01/11/2017,SQL,5,,64,,,64,,,G
+,39,ESEP,Oficina Central,La Habana,0,Sicema SQL,,DESOFT,1,256,,1,1,-256,,,G
+,39,ESEP,Agencia No.1 Cap. y Habilitacion,La Habana,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,39,ESEP,Agencia No.2 Serv. Téc.,La Habana,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,39,ESEP,Agencia No.4 Habana Oeste,La Habana,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,39,ESEP,Agencia No.5 Puerto Habana,La Habana,0,Sicema SQL,01/04/2017,DESOFT,1,,,,,0,,,G
+,39,ESEP,Agencia No.6  Habana Centro,La Habana,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,39,ESEP,Agencia No.7 Habana Este,La Habana,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,39,ESEP,Agencia No.3 Isla de la Juventud,Isla de la Juventud,0,Sicema SQL,,DESOFT,1,,,,1,0,,,G
+,39,ESEP,Agencia No.8 Matanzas,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,44,Cárnica Matanza,Mario Martínez Arara,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,36,IDS,Diseño y Servicios de Ingeniería Villa Clara,Villa Clara,0,Sicema SQL,,SQLA,5,,,,3,0,,,G
+,44,Cárnica Matanza,Comercializadora,Matanzas,0,Sicema SQL,,SQLA,5,64,,1,,-64,,,G
+,45,Lácteos Matanza,Combinado Lácteo Cárdenas.,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,48,Lácteos Escambray,Mantenimiento,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,48,Lácteos Escambray,Transporte,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,48,Lácteos Escambray,Comercial,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,48,Lácteos Escambray,Servicios Generales,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,49,EPICIEN,Oficina Central,Cienfuegos,0,Sicema SQL,,SQL,5,128,512,1,,384,,,G
+,49,EPICIEN,Capsur,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,49,EPICIEN,Escasur,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,48,Lácteos Escambray,Aseguramiento,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,49,EPICIEN,Indusur,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,3,Bebidas Pinar del Río,Ron “El Valle”,Pinar del Río,0,Sicema SQL,,SQL,5,,,,1,0,,,G
+,49,EPICIEN,Acuarodas,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,49,EPICIEN,Culticien,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,49,EPICIEN,Provejagua,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,50,Cárnica Villa Clara,Oficina Central,Villa Clara,0,Sicema SQL,,DISAIC,1,128,,1,,-128,,,G
+,50,Cárnica Villa Clara,Aseguramiento,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,50,Cárnica Villa Clara,Chichi Padrón,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,49,EPICIEN,Fricom,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G
+,48,Lácteos Escambray,Producción de Leche y Derivados de la Soya,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,48,Lácteos Escambray,Quesos,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,48,Lácteos Escambray,Helados,Cienfuegos,0,Sicema SQL,,SQLA,5,1024d,,,,#VALUE!,,,G
+,45,Lácteos Matanza,Combinado Lácteo de Colon.,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,45,Lácteos Matanza,Combinado Lácteo de Matanzas.,Matanzas,0,Sicema SQL,,SQLA,5,,,,,0,,,G
+,45,Lácteos Matanza,Agencia Varadero,Matanzas,0,Sicema SQL,,SQLA,5,64,,1,,-64,,,G
+,46,PESCAMAT,Oficina Central,Matanzas,0,Siscomip,01/09/2017,SQL,5,64,128,1,,64,,,G
+,46,PESCAMAT,Comercial y Distribución,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,46,PESCAMAT,Acuícola Limonar,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,46,PESCAMAT,Acuícola Jovellanos,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,46,PESCAMAT,Acuícola Colón,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,46,PESCAMAT,Los Molinos.,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,46,PESCAMAT,Alevinaje Calimete,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,46,PESCAMAT,Extractiva e Industrial Cárdenas,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,46,PESCAMAT,Extractiva Ciénaga de Zapata,Matanzas,0,Siscomip,01/09/2017,SQL,5,,,,,0,,,G
+,47,Cárnica Cienfuegos,Oficina Central,Cienfuegos,0,Sicema SQL,,DESOFT,1,256,512,1,,256,,,G
+,47,Cárnica Cienfuegos,Producción,Cienfuegos,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,47,Cárnica Cienfuegos,Aseguramiento,Cienfuegos,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,47,Cárnica Cienfuegos,Ventas,Cienfuegos,0,Sicema SQL,,DESOFT,1,,,,,0,,,G
+,48,Lácteos Escambray,Oficina Central,Cienfuegos,0,Sicema SQL,,SQLA,5,1024,,1,,-1024,,,G
+,45,Lácteos Matanza,Oficina Central,Matanzas,0,Sicema SQL,,SQLA,5,128,,1,,-128,,,G
+,36,IDS,Soluciones Constructivas y Acabado,La Habana,0,Sicema SQL,,SQLA,5,,,,1,0,,,G
+,36,IDS,Diseño Grafico,La Habana,0,Sicema SQL,,SQL,5,128,,1,1,-128,,,G
+,36,IDS,Diseño Habana,La Habana,0,Sicema SQL,,SQLA,5,64,1024,1,,960,,,G
+,26,PRODAL,Planta de P.Varios,La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,26,PRODAL,Logística,La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,26,PRODAL,Aseg.Técnico,La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,26,PRODAL,"Calidad, Tecnica  y Desarrollo",La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,26,PRODAL,Seg .Prot y Serv Gral.,La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,27,PROPES,Oficina Central,La Habana,0,Siscomip,01/09/2017,SQL,5,128,,1,1,-128,,,G
+,27,PROPES,Almacenes y Transporte,La Habana,0,Siscomip,01/09/2017,SQL,5,,,,2,0,,,G
+,26,PRODAL,Planta de Conformado,La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,27,PROPES,Comercial,La Habana,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,27,PROPES,Abapesca,Camaguey,0,Siscomip,01/09/2017,SQL,5,,,,1,0,,,G
+,27,PROPES,Alisur,Camaguey,0,Siscomip,01/09/2017,SQL,5,64,,1,,-64,,,G
+,27,PROPES,Abagran,Granma,0,Siscomip,01/10/2017,SQL,5,,,,1,0,,,G
+,28,COPMAR,Oficina Central,La Habana,0,Siscomip,01/11/2017,SQL,5,256,,2,,-256,,,G
+,28,COPMAR,Comercial Congelados de La Habana.,La Habana,0,Siscomip,01/11/2017,SQL,5,256d,,,,#VALUE!,,,G
+,28,COPMAR,Servicios de Calidad,La Habana,0,Siscomip,01/11/2017,SQL,5,256d,,,,#VALUE!,,,G
+,28,COPMAR,Servicios a la Comercialización,La Habana,0,Siscomip,01/11/2017,SQL,5,256d,,,,#VALUE!,,,G
+,27,PROPES,Abacen,Villa Clara,0,Siscomip,01/05/2017,SQL,5,,,,1,0,,,G
+,26,PRODAL,Planta de Embutido,La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,26,PRODAL,Comercialización,La Habana,0,Siscomip,01/07/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,26,PRODAL,Oficina Central,La Habana,0,Siscomip,01/07/2017,SQL,5,1024,,1,,-1024,,,G
+,22,ALIBEC,La Polar,La Habana,0,Sicema SQL,,SQLA,5,128d,,,,#VALUE!,,,G
+,23,Flogolfo,Oficina Central,La Habana,0,Siscomip,01/08/2017,SQL,5,64,,1,1,-64,,,G
+,23,Flogolfo,Logística y Ventas,La Habana,0,Siscomip,01/08/2017,SQL,5,64d,,,1,#VALUE!,,,G
+,23,Flogolfo,Producción,La Habana,0,Siscomip,01/08/2017,SQL,5,64d,,,,#VALUE!,,,G
+,23,Flogolfo,Técnica,La Habana,0,Siscomip,01/08/2017,SQL,5,64d,,,,#VALUE!,,,G
+,24,EDTA,Oficina Central,Mayabeque,0,Siscomip,01/08/2017,SQL,5,256,,1,,-256,,,G
+,24,EDTA,El Dique,La Habana,0,Siscomip,01/08/2017,SQL,5,,,,,0,,,G
+,24,EDTA,Mampostón,Mayabeque,0,Siscomip,01/08/2017,SQL,5,,,,,0,,,G
+,25,Camarón,Oficina Central,La Habana,0,Sicema SQL,,SQL,5,256,,1,,-256,,,G
+,25,Camarón,Logistica,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,25,Camarón,Yaguacam,Cienfuegos,0,Siscomip,01/10/2017,SQL,5,,,,1,0,,,G
+,25,Camarón,Cultizaza,Sancti Spíritus,0,Siscomip,01/07/2017,SQL,5,64,,1,,-64,,,G
+,25,Camarón,Cultisur y Logística,Camaguey,0,Siscomip,01/09/2017,SQL,5,64,,1,,-64,,,G
+,25,Camarón,Sanros,Las Tunas,0,Siscomip,01/09/2017,SQL,5,64,,1,,-64,,,G
+,25,Camarón,Calisur,Granma,0,Siscomip,01/10/2017,SQL,5,64,,1,,-64,,,G
+,25,Camarón,Guajaca,Holguín,0,Siscomip,01/10/2017,SQL,5,64,,1,,-64,,,G
+,25,Camarón,Centro Desove Manzanillo,Granma,0,Siscomip,01/10/2017,SQL,5,,,,,0,,,G
+,28,COPMAR,Comercial Congelados de  Santiago de Cuba,Santiago de Cuba,0,Siscomip,01/11/2017,SQL,5,,64,,,64,,,G
+,29,CEPRONA,Oficina Central,La Habana,0,Siscomip,01/11/2017,SQL,5,256,,1,,-256,,,G
+,29,CEPRONA,Proyecto,La Habana,0,Siscomip,01/11/2017,SQL,5,256d,,,1,#VALUE!,,,G
+,29,CEPRONA,Chullima,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,32,ATLAS,Logística y Aseguramiento,La Habana,0,Sicema SQL,,SQL,5,256d,,,,#VALUE!,,,G
+,33,ALIMATIC,Oficina Central,La Habana,0,Sicema SQL,,SQL,5,2048,,1,,-2048,,,G
+,33,ALIMATIC,Alimatic Habana,La Habana,0,Sicema SQl,,SQL,5,2048d,,,1,#VALUE!,,,G
+,33,ALIMATIC,Alimatic Pinar del Rio,Pinar del Río,0,Sicema SQL,,SQL,5,512,,1,,-512,,,G
+,33,ALIMATIC,Alimatic Villa Clara,Villa Clara,0,Sicema SQl,,SQL,5,1024,,2,1,-1024,,,G
+,33,ALIMATIC,Alimatic Camaguey,Camaguey,0,Sicema SQl,,SQL,5,1024,,1,,-1024,,,G
+,33,ALIMATIC,Alimatic  Oriente,Granma,0,Sicema SQL,,SQL,5,1536,,3,1,-1536,,,G
+,34,EMSERVA,Oficina Central,La Habana,0,Siscomip,01/11/2017,SQL,5,640,,2,,-640,,,G
+,34,EMSERVA,Alimentación y logística,La Habana,0,Siscomip,01/11/2017,SQL,5,64,512,1,,448,,,G
+,34,EMSERVA,Transporte,La Habana,0,Siscomip,01/11/2017,SQL,5,512d,,,,#VALUE!,,,G
+,34,EMSERVA,Mantenimiento Constructivo,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,1,0,,,G
+,35,COMELEC,Oficina Central,La Habana,0,Siscomip,01/10/2017,SQL,5,256,,1,,-256,,,G
+,35,COMELEC,Inoxidable,La Habana,0,Siscomip,01/10/2017,SQL,5,,128,,1,128,,,G
+,35,COMELEC,Acero al Carbono (ACECAR),La Habana,0,Siscomip,01/10/2017,SQL,5,128,,1,1,-128,,,G
+,35,COMELEC,Producciones Mecánicas Villa Clara,Villa Clara,0,Siscomip,01/11/2017,SQL,5,128,,1,4,-128,,,G
+,35,COMELEC,Producciones Mecánicas Matanzas,Matanzas,0,Siscomip,01/11/2017,SQL,5,128,,1,1,-128,,,G
+,36,IDS,Oficina Central,La Habana,0,Sicema SQL,,SQLA,5,128,,1,1,-128,,,G
+,32,ATLAS,Técnica,La Habana,0,Sicema SQL,,SQL,5,256d,,,,#VALUE!,,,G
+,50,Cárnica Villa Clara,Salamina,Villa Clara,0,Sicema SQL,,DISAIC,1,,,,1,0,,,G
+,32,ATLAS,Transporte Isotérmico,La Habana,0,Sicema SQL,,SQL,5,256d,,,,#VALUE!,,,G
+,32,ATLAS,Oficina Central,La Habana,0,Sicema SQL,,SQL,5,256,,1,,-256,,,G
+,29,CEPRONA,Astigal,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,2,0,,,G
+,29,CEPRONA,Navalec,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,1,0,,,G
+,29,CEPRONA,Astisur,Cienfuegos,0,Siscomip,01/11/2017,SQL,5,64,,1,,-64,,,G
+,29,CEPRONA,Astinor,Holguín,0,Siscomip,01/10/2017,SQL,5,64,,1,,-64,,,G
+,29,CEPRONA,Astigolf,Granma,0,Siscomip,01/10/2017,SQL,5,64,,1,,-64,,,G
+,30,CARIBEX,Oficina Central,La Habana,0,Siscomip,01/09/2017,SQL,5,1024,,1,1,-1024,,,G
+,30,CARIBEX,Aseguramiento,La Habana,0,Siscomip,01/09/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,30,CARIBEX,Importaciones,La Habana,0,Siscomip,01/11/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,30,CARIBEX,Exportaciones,La Habana,0,Siscomip,01/09/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,30,CARIBEX,Mercado y Desarrollo,La Habana,0,Siscomip,01/09/2017,SQL,5,1024d,,,,#VALUE!,,,G
+,30,CARIBEX,Operaciones Portuarias,La Habana,0,Siscomip,01/09/2017,SQL,5,1024d,512,,,#VALUE!,,,G
+,31,PESCARIBE,Oficina Central,La Habana,0,Siscomip,01/11/2017,SQL,5,128,,1,,-128,,,G
+,31,PESCARIBE,Territorial de Venta Habana,La Habana,0,Siscomip,01/11/2017,SQL,5,64,,1,,-64,,,G
+,31,PESCARIBE,Almacén Mayorista,La Habana,0,Siscomip,01/11/2017,SQL,5,,,,,0,,,G
+,31,PESCARIBE,Territorial de Venta Varadero,Matanzas,0,Siscomip,01/10/2017,SQL,5,64,,1,,-64,,,G
+,31,PESCARIBE,Territorial de Venta Ciego de Avila,Ciego de Ávila,0,Siscomip,01/09/2017,SQL,5,64,,1,,-64,,,G
+,31,PESCARIBE,Territorial de Venta Holguin,Holguín,0,Siscomip,01/10/2017,SQL,5,64,,1,,-64,,,G
+,32,ATLAS,Transporte Refrigerado,La Habana,0,Sicema SQL,,SQL,5,256d,,,,#VALUE!,,,G
+,49,EPICIEN,Alguar,Cienfuegos,0,Sicema SQL,,SQL,5,,,,,0,,,G

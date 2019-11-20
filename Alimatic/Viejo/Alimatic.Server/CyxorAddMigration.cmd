@@ -1,0 +1,1 @@
+dotnet ef migrations add Initial -c CyxorDbContext -o "Alimatic/Cyxor/Data/Migrations"

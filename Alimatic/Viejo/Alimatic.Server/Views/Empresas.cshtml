@@ -1,0 +1,24 @@
+﻿@model Alimatic.DataDin.Controllers.EF
+@{  Layout = "_Layout"; }
+
+<div>
+    <h2>Listado de empresas del Minal</h2>
+
+    <p>@Model.Id</p>
+    <p>@Model.Name</p>
+
+    <form method="get" action="Prueba">
+        QId: <input asp-for="Id"/> <br/>
+        WName: <input asp-for="Name" /><br/>
+        ZDime: <input asp-for="Dime" /><br/>
+        <button type="submit">Modify</button>
+    </form>
+
+    <table>
+        <tr> <th>Codigo Reeup</th> <th>Nombre de la empresa</th> <th>División</th> </tr>
+        @foreach (var empresa in Model.Empresas)
+        {
+            <tr> <td>@empresa.Id</td> <td>@empresa.Nombre</td> <td>@empresa.Division</td> </tr>
+        }
+    </table>
+</div>

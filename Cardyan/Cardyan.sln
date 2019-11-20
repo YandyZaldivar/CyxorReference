@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{B07F5426-3F23-4A7B-8B3C-3AE8D4890274}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardyan.Master", "Cardyan.Master\Cardyan.Master.csproj", "{3FF032C4-8684-434A-A919-F3551AC40279}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardyan.Accounting", "Modules\Cardyan.Accounting\Cardyan.Accounting.csproj", "{9B7DA98F-7427-423C-9E03-C86BC2C239B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardyan.Inventory", "Modules\Cardyan.Inventory\Cardyan.Inventory.csproj", "{041121DF-53F2-4DA8-AEDF-2EE8BA3E69CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF032C4-8684-434A-A919-F3551AC40279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF032C4-8684-434A-A919-F3551AC40279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF032C4-8684-434A-A919-F3551AC40279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF032C4-8684-434A-A919-F3551AC40279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7DA98F-7427-423C-9E03-C86BC2C239B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7DA98F-7427-423C-9E03-C86BC2C239B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7DA98F-7427-423C-9E03-C86BC2C239B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7DA98F-7427-423C-9E03-C86BC2C239B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041121DF-53F2-4DA8-AEDF-2EE8BA3E69CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041121DF-53F2-4DA8-AEDF-2EE8BA3E69CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041121DF-53F2-4DA8-AEDF-2EE8BA3E69CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041121DF-53F2-4DA8-AEDF-2EE8BA3E69CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B7DA98F-7427-423C-9E03-C86BC2C239B0} = {B07F5426-3F23-4A7B-8B3C-3AE8D4890274}
+		{041121DF-53F2-4DA8-AEDF-2EE8BA3E69CA} = {B07F5426-3F23-4A7B-8B3C-3AE8D4890274}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E79B711-1DBF-4D0F-A606-F294C7A000DA}
+	EndGlobalSection
+EndGlobal

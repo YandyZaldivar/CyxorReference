@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <!--<RuntimeFrameworkVersion>2.1.5</RuntimeFrameworkVersion>-->
+    <RuntimeIdentifiers>portable</RuntimeIdentifiers>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="../Modules/Cardyan.Accounting/Cardyan.Accounting.csproj" />
+    <ProjectReference Include="../Modules/Cardyan.Inventory/Cardyan.Inventory.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="AgileObjects.AgileMapper" Version="0.28.0" />
+  </ItemGroup>
+
+</Project>
